@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Application",
+            "request": "launch",
+            "mainClass": "main.java.hello.Application",
+            "projectName": "saudacao_7f3f05f2"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Application<gs-rest-service>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "hello.Application",
+            "projectName": "gs-rest-service",
+            "args": ""
+        }
+    ]
+}
